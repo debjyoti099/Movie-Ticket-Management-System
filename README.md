@@ -1,1 +1,3 @@
 # Movie-Ticket-Management-System
+
+The purpose of this document is to present an overall description and listing of the functionality of The Testing Assistant for Regression Testing. It will explain the scope of the project as well as describe the system environment. This document will also include an easily traceable means by which the user can trace each functionality’s brief description to its full description. Also included is a user interface specification whereby the user can demonstrate interface standards to be used in designing the system. Furthermore, considerations regarding non-functional requirements and system evolution are 
